@@ -1,6 +1,6 @@
 # TidyData
 
-This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
+This is the assignment for the Getting and Cleaning Data course. The R script, run_analysis.R, does the following:
 
 Download the dataset if it does not already exist in the working directory <br/>
 Load the activity and feature info <br/>
